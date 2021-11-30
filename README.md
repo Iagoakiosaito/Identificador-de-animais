@@ -11,4 +11,6 @@ A criação do modelo de predição, foi feito inteiramente utilizando a linguag
   
 Utilizando um dataset pessoal, o modelo foi treinado para identificar leões machos, gatos, cachorros e pardais, veja alguns exemplos dessas predições.
 
-
+<img width=40% src="Images/Dober.jpeg" alt="App Screenshot"/>    <img width=40% src="Images/Pug.jpeg" alt="App Screenshot"/>
+<img width=40% src="Images/Leao1.jpeg" alt="App Screenshot"/>    <img width=40% src="Images/Leao2.jpeg" alt="App Screenshot"/>
+<img width=40% src="Images/Gato.jpeg" alt="App Screenshot"/>    <img width=40% src="Images/Pardal.jpeg" alt="App Screenshot"/>
